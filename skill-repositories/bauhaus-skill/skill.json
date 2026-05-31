@@ -1,0 +1,18 @@
+{
+  "skillId": "bauhaus",
+  "displayName": "Bauhaus",
+  "description": "Bold visual design language guidance for building modern premium interfaces with oversized typography, geometric composition, disciplined color systems, section-level contrast, and striking yet consistent theme expression.",
+  "repositoryName": "bauhaus-skill",
+  "topics": [
+    "ai-skill",
+    "visual-design",
+    "design-system",
+    "typography",
+    "frontend",
+    "branding",
+    "css",
+    "themes"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

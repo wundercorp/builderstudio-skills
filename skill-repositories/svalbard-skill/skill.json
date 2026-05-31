@@ -1,0 +1,20 @@
+{
+  "skillId": "svalbard",
+  "displayName": "Svalbard",
+  "description": "Security-first application architecture and hardening guidance for secure-by-default apps, authentication, authorization, input validation, browser headers, secrets, data protection, abuse controls, containers, CI/CD, and release verification.",
+  "repositoryName": "svalbard-skill",
+  "topics": [
+    "ai-skill",
+    "developer-tools",
+    "security",
+    "application-security",
+    "secure-by-default",
+    "threat-modeling",
+    "hardening",
+    "frontend",
+    "backend",
+    "devsecops"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

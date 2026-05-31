@@ -1,0 +1,18 @@
+{
+  "skillId": "ogilvideo",
+  "displayName": "Ogilvideo",
+  "description": "Motion-director-grade video analysis, storyboarding, prompt engineering, animation planning, agentic AI video direction, UI motion systems, production breakdowns, and QA for premium product videos and motion graphics.",
+  "repositoryName": "ogilvideo-skill",
+  "topics": [
+    "ai-skill",
+    "motion-design",
+    "video-production",
+    "ai-video",
+    "storyboarding",
+    "animation",
+    "product-marketing",
+    "creative-direction"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

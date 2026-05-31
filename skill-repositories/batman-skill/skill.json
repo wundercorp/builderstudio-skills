@@ -1,0 +1,17 @@
+{
+  "skillId": "batman",
+  "displayName": "Batman",
+  "description": "Dark-mode-first website theming guidance for adding accessible light/dark switches, root theme contracts, no-flash initialization, persisted preferences, semantic tokens, and common theming pitfall prevention across frontend codebases.",
+  "repositoryName": "batman-skill",
+  "topics": [
+    "ai-skill",
+    "dark-mode",
+    "theme-toggle",
+    "accessibility",
+    "frontend",
+    "design-system",
+    "css"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

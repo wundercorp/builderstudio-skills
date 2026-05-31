@@ -1,0 +1,427 @@
+{
+  "builderStudioUrl": "https://builderstudio.dev",
+  "repositories": [
+    {
+      "skillId": "ogilvideo",
+      "displayName": "Ogilvideo",
+      "description": "Motion-director-grade video analysis, storyboarding, prompt engineering, animation planning, agentic AI video direction, UI motion systems, production breakdowns, and QA for premium product videos and motion graphics.",
+      "repositoryName": "ogilvideo-skill",
+      "repositoryDirectory": "skill-repositories/ogilvideo-skill",
+      "githubUrl": "https://github.com/wundercorp/ogilvideo-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/ogilvideo-skill/ogilvideo",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/ogilvideo-skill)](https://skills.sh/wundercorp/ogilvideo-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/ogilvideo-skill --skill ogilvideo",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/ogilvideo-skill --skill ogilvideo"
+      },
+      "topics": [
+        "ai-skill",
+        "motion-design",
+        "video-production",
+        "ai-video",
+        "storyboarding",
+        "animation",
+        "product-marketing",
+        "creative-direction"
+      ]
+    },
+    {
+      "skillId": "professional-developer",
+      "displayName": "Professional Developer",
+      "description": "Production-grade development guidance for clean structure, formatting, design patterns, testing, maintainability, and professional code review behavior.",
+      "repositoryName": "professional-developer-skill",
+      "repositoryDirectory": "skill-repositories/professional-developer-skill",
+      "githubUrl": "https://github.com/wundercorp/professional-developer-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/professional-developer-skill/professional-developer",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/professional-developer-skill)](https://skills.sh/wundercorp/professional-developer-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/professional-developer-skill --skill professional-developer",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/professional-developer-skill --skill professional-developer"
+      },
+      "topics": [
+        "ai-skill",
+        "developer-tools",
+        "code-quality",
+        "software-architecture",
+        "refactoring"
+      ]
+    },
+    {
+      "skillId": "wiring",
+      "displayName": "Wiring",
+      "description": "Application wiring sanity-check and repair guidance for making sure run commands, entry points, imports, CSS and asset references, dependencies, routes, environment variables, build configuration, monorepo links, Docker files, and deployment paths are correctly connected so apps can run and ship.",
+      "repositoryName": "wiring-skill",
+      "repositoryDirectory": "skill-repositories/wiring-skill",
+      "githubUrl": "https://github.com/wundercorp/wiring-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/wiring-skill/wiring",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/wiring-skill)](https://skills.sh/wundercorp/wiring-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/wiring-skill --skill wiring",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/wiring-skill --skill wiring"
+      },
+      "topics": [
+        "ai-skill",
+        "developer-tools",
+        "app-wiring",
+        "debugging",
+        "frontend",
+        "backend",
+        "build-tools",
+        "deployment"
+      ]
+    },
+    {
+      "skillId": "doctor",
+      "displayName": "Doctor",
+      "description": "Runtime dependency doctor and generated-app auto-healing guidance for unresolved imports, missing packages, stale installs, package.json drift, lockfile drift, Vite import-analysis errors, module-not-found failures, and dev-server preview failures.",
+      "repositoryName": "doctor-skill",
+      "repositoryDirectory": "skill-repositories/doctor-skill",
+      "githubUrl": "https://github.com/wundercorp/doctor-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/doctor-skill/doctor",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/doctor-skill)](https://skills.sh/wundercorp/doctor-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/doctor-skill --skill doctor",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/doctor-skill --skill doctor"
+      },
+      "topics": [
+        "ai-skill",
+        "developer-tools",
+        "debugging",
+        "runtime",
+        "dependencies",
+        "vite",
+        "frontend",
+        "auto-healing"
+      ]
+    },
+    {
+      "skillId": "patcher",
+      "displayName": "Patcher",
+      "description": "Severity-ordered vulnerability patching guidance and tooling for Docker containers, dependency CVEs, zero-day mitigations, frontend security issues, backend package vulnerabilities, CI/CD supply-chain risks, and other exploitable codebase issues while preserving install, build, test, run, and deployment behavior.",
+      "repositoryName": "patcher-skill",
+      "repositoryDirectory": "skill-repositories/patcher-skill",
+      "githubUrl": "https://github.com/wundercorp/patcher-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/patcher-skill/patcher",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/patcher-skill)](https://skills.sh/wundercorp/patcher-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/patcher-skill --skill patcher",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/patcher-skill --skill patcher"
+      },
+      "topics": [
+        "ai-skill",
+        "developer-tools",
+        "security",
+        "vulnerability-management",
+        "cve",
+        "docker",
+        "dependencies",
+        "frontend",
+        "supply-chain"
+      ]
+    },
+    {
+      "skillId": "svalbard",
+      "displayName": "Svalbard",
+      "description": "Security-first application architecture and hardening guidance for secure-by-default apps, authentication, authorization, input validation, browser headers, secrets, data protection, abuse controls, containers, CI/CD, and release verification.",
+      "repositoryName": "svalbard-skill",
+      "repositoryDirectory": "skill-repositories/svalbard-skill",
+      "githubUrl": "https://github.com/wundercorp/svalbard-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/svalbard-skill/svalbard",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/svalbard-skill)](https://skills.sh/wundercorp/svalbard-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/svalbard-skill --skill svalbard",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/svalbard-skill --skill svalbard"
+      },
+      "topics": [
+        "ai-skill",
+        "developer-tools",
+        "security",
+        "application-security",
+        "secure-by-default",
+        "threat-modeling",
+        "hardening",
+        "frontend",
+        "backend",
+        "devsecops"
+      ]
+    },
+    {
+      "skillId": "mimar",
+      "displayName": "Mimar",
+      "description": "Architecture documentation generation guidance and tooling for automatically creating and maintaining ARCHITECTURE.md files with Markdown-friendly diagrams, directory maps, run flows, dependency maps, feature boundaries, implementation notes, and codebase design explanations.",
+      "repositoryName": "mimar-skill",
+      "repositoryDirectory": "skill-repositories/mimar-skill",
+      "githubUrl": "https://github.com/wundercorp/mimar-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/mimar-skill/mimar",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/mimar-skill)](https://skills.sh/wundercorp/mimar-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/mimar-skill --skill mimar",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/mimar-skill --skill mimar"
+      },
+      "topics": [
+        "ai-skill",
+        "developer-tools",
+        "architecture",
+        "documentation",
+        "markdown",
+        "diagrams",
+        "codebase-analysis",
+        "handoff"
+      ]
+    },
+    {
+      "skillId": "cloud-deployment-shipyou",
+      "displayName": "Cloud Deployment for ShipYou",
+      "description": "Deployment-readiness guidance for containerizing apps, producing Docker-friendly source bundles, adding health checks, and preparing projects for ShipYou handoff.",
+      "repositoryName": "cloud-deployment-shipyou-skill",
+      "repositoryDirectory": "skill-repositories/cloud-deployment-shipyou-skill",
+      "githubUrl": "https://github.com/wundercorp/cloud-deployment-shipyou-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/cloud-deployment-shipyou-skill/cloud-deployment-shipyou",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/cloud-deployment-shipyou-skill)](https://skills.sh/wundercorp/cloud-deployment-shipyou-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/cloud-deployment-shipyou-skill --skill cloud-deployment-shipyou",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/cloud-deployment-shipyou-skill --skill cloud-deployment-shipyou"
+      },
+      "topics": [
+        "ai-skill",
+        "docker",
+        "deployment",
+        "containerization",
+        "shipyou"
+      ]
+    },
+    {
+      "skillId": "cleaner",
+      "displayName": "Cleaner",
+      "description": "Public-release repository cleaning guidance for removing OS junk, archive metadata, caches, logs, local deployment state, private env files, local databases, dependency artifacts, build clutter, and secret-like content before GitHub pushes or other public deployments.",
+      "repositoryName": "cleaner-skill",
+      "repositoryDirectory": "skill-repositories/cleaner-skill",
+      "githubUrl": "https://github.com/wundercorp/cleaner-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/cleaner-skill/cleaner",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/cleaner-skill)](https://skills.sh/wundercorp/cleaner-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/cleaner-skill --skill cleaner",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/cleaner-skill --skill cleaner"
+      },
+      "topics": [
+        "ai-skill",
+        "repo-cleanup",
+        "git-hooks",
+        "github",
+        "deployment",
+        "security"
+      ]
+    },
+    {
+      "skillId": "archivist",
+      "displayName": "Archivist",
+      "description": "Repository history and change-maintenance guidance for keeping changelogs, change records, release notes, ADRs, migration notes, API notes, deployment notes, and GitHub review templates up to date whenever codebases change.",
+      "repositoryName": "archivist-skill",
+      "repositoryDirectory": "skill-repositories/archivist-skill",
+      "githubUrl": "https://github.com/wundercorp/archivist-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/archivist-skill/archivist",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/archivist-skill)](https://skills.sh/wundercorp/archivist-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/archivist-skill --skill archivist",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/archivist-skill --skill archivist"
+      },
+      "topics": [
+        "ai-skill",
+        "changelog",
+        "release-notes",
+        "adr",
+        "github",
+        "documentation",
+        "change-management"
+      ]
+    },
+    {
+      "skillId": "coherence",
+      "displayName": "Coherence",
+      "description": "Prompt, skill, and technology-direction reconciliation guidance for turning mismatched requirements, overlapping skills, contradictory instructions, and implementation anti-patterns into a coherent strategy that works well together.",
+      "repositoryName": "coherence-skill",
+      "repositoryDirectory": "skill-repositories/coherence-skill",
+      "githubUrl": "https://github.com/wundercorp/coherence-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/coherence-skill/coherence",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/coherence-skill)](https://skills.sh/wundercorp/coherence-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/coherence-skill --skill coherence",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/coherence-skill --skill coherence"
+      },
+      "topics": [
+        "ai-skill",
+        "prompt-engineering",
+        "software-architecture",
+        "technical-strategy",
+        "anti-patterns",
+        "documentation",
+        "change-management"
+      ]
+    },
+    {
+      "skillId": "batman",
+      "displayName": "Batman",
+      "description": "Dark-mode-first website theming guidance for adding accessible light/dark switches, root theme contracts, no-flash initialization, persisted preferences, semantic tokens, and common theming pitfall prevention across frontend codebases.",
+      "repositoryName": "batman-skill",
+      "repositoryDirectory": "skill-repositories/batman-skill",
+      "githubUrl": "https://github.com/wundercorp/batman-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/batman-skill/batman",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/batman-skill)](https://skills.sh/wundercorp/batman-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/batman-skill --skill batman",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/batman-skill --skill batman"
+      },
+      "topics": [
+        "ai-skill",
+        "dark-mode",
+        "theme-toggle",
+        "accessibility",
+        "frontend",
+        "design-system",
+        "css"
+      ]
+    },
+    {
+      "skillId": "contrast-guard",
+      "displayName": "Contrast Guard",
+      "description": "UI legibility and contrast-safety guidance for preventing unreadable foreground/background pairings, theme-toggle contrast regressions, risky overlays, accidental palette leakage, and low-contrast interactive states across generated frontend apps.",
+      "repositoryName": "contrast-guard-skill",
+      "repositoryDirectory": "skill-repositories/contrast-guard-skill",
+      "githubUrl": "https://github.com/wundercorp/contrast-guard-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/contrast-guard-skill/contrast-guard",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/contrast-guard-skill)](https://skills.sh/wundercorp/contrast-guard-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/contrast-guard-skill --skill contrast-guard",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/contrast-guard-skill --skill contrast-guard"
+      },
+      "topics": [
+        "ai-skill",
+        "accessibility",
+        "contrast",
+        "visual-design",
+        "frontend",
+        "css",
+        "themes",
+        "design-system"
+      ]
+    },
+    {
+      "skillId": "accessibility",
+      "displayName": "Accessibility",
+      "description": "Inclusive UI accessibility guidance for semantic HTML, ARIA, keyboard navigation, focus management, screen-reader behavior, accessible forms, reduced motion, landmarks, live regions, and assistive-technology-friendly components across frontend apps.",
+      "repositoryName": "accessibility-skill",
+      "repositoryDirectory": "skill-repositories/accessibility-skill",
+      "githubUrl": "https://github.com/wundercorp/accessibility-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/accessibility-skill/accessibility",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/accessibility-skill)](https://skills.sh/wundercorp/accessibility-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/accessibility-skill --skill accessibility",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/accessibility-skill --skill accessibility"
+      },
+      "topics": [
+        "ai-skill",
+        "accessibility",
+        "a11y",
+        "aria",
+        "keyboard-navigation",
+        "frontend",
+        "semantic-html",
+        "assistive-technology",
+        "forms"
+      ]
+    },
+    {
+      "skillId": "themable",
+      "displayName": "Themable",
+      "description": "Website theme palette guidance for adding switchable theme families, semantic token utilities, accessible palette pickers, persisted preferences, CSS variable generation, and anti-pattern prevention across frontend codebases.",
+      "repositoryName": "themable-skill",
+      "repositoryDirectory": "skill-repositories/themable-skill",
+      "githubUrl": "https://github.com/wundercorp/themable-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/themable-skill/themable",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/themable-skill)](https://skills.sh/wundercorp/themable-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/themable-skill --skill themable",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/themable-skill --skill themable"
+      },
+      "topics": [
+        "ai-skill",
+        "themes",
+        "design-system",
+        "palettes",
+        "frontend",
+        "css",
+        "accessibility"
+      ]
+    },
+    {
+      "skillId": "bauhaus",
+      "displayName": "Bauhaus",
+      "description": "Bold visual design language guidance for building modern premium interfaces with oversized typography, geometric composition, disciplined color systems, section-level contrast, and striking yet consistent theme expression.",
+      "repositoryName": "bauhaus-skill",
+      "repositoryDirectory": "skill-repositories/bauhaus-skill",
+      "githubUrl": "https://github.com/wundercorp/bauhaus-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/bauhaus-skill/bauhaus",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/bauhaus-skill)](https://skills.sh/wundercorp/bauhaus-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/bauhaus-skill --skill bauhaus",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/bauhaus-skill --skill bauhaus"
+      },
+      "topics": [
+        "ai-skill",
+        "visual-design",
+        "design-system",
+        "typography",
+        "frontend",
+        "branding",
+        "css",
+        "themes"
+      ]
+    },
+    {
+      "skillId": "gradient-mesh",
+      "displayName": "Gradient Mesh",
+      "description": "Gradient mesh website design guidance for generating tasteful mesh backgrounds, CSS/SVG/canvas assets, animation-safe visual systems, accessibility overlays, performance budgets, and optional MeshGradientPy-inspired Python mesh workflows.",
+      "repositoryName": "gradient-mesh-skill",
+      "repositoryDirectory": "skill-repositories/gradient-mesh-skill",
+      "githubUrl": "https://github.com/wundercorp/gradient-mesh-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/gradient-mesh-skill/gradient-mesh",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/gradient-mesh-skill)](https://skills.sh/wundercorp/gradient-mesh-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/gradient-mesh-skill --skill gradient-mesh",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/gradient-mesh-skill --skill gradient-mesh"
+      },
+      "topics": [
+        "ai-skill",
+        "gradient-mesh",
+        "web-design",
+        "frontend",
+        "css",
+        "svg",
+        "visual-design"
+      ]
+    },
+    {
+      "skillId": "linguist",
+      "displayName": "Linguist",
+      "description": "Internationalization implementation guidance for auto-configuring multilingual sites with locale routing, translation keys, fallback languages, formatting, SEO hreflang metadata, extraction checks, and localization documentation.",
+      "repositoryName": "linguist-skill",
+      "repositoryDirectory": "skill-repositories/linguist-skill",
+      "githubUrl": "https://github.com/wundercorp/linguist-skill",
+      "skillsShUrl": "https://skills.sh/wundercorp/linguist-skill/linguist",
+      "skillsShBadge": "[![skills.sh](https://skills.sh/b/wundercorp/linguist-skill)](https://skills.sh/wundercorp/linguist-skill)",
+      "install": {
+        "npx": "npx --yes skills add https://github.com/wundercorp/linguist-skill --skill linguist",
+        "yarn": "yarn dlx skills add https://github.com/wundercorp/linguist-skill --skill linguist"
+      },
+      "topics": [
+        "ai-skill",
+        "i18n",
+        "localization",
+        "multilingual",
+        "frontend",
+        "seo",
+        "accessibility"
+      ]
+    }
+  ]
+}

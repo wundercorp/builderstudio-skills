@@ -1,0 +1,16 @@
+{
+  "skillId": "cleaner",
+  "displayName": "Cleaner",
+  "description": "Public-release repository cleaning guidance for removing OS junk, archive metadata, caches, logs, local deployment state, private env files, local databases, dependency artifacts, build clutter, and secret-like content before GitHub pushes or other public deployments.",
+  "repositoryName": "cleaner-skill",
+  "topics": [
+    "ai-skill",
+    "repo-cleanup",
+    "git-hooks",
+    "github",
+    "deployment",
+    "security"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

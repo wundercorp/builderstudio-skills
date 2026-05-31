@@ -1,0 +1,19 @@
+{
+  "skillId": "patcher",
+  "displayName": "Patcher",
+  "description": "Severity-ordered vulnerability patching guidance and tooling for Docker containers, dependency CVEs, zero-day mitigations, frontend security issues, backend package vulnerabilities, CI/CD supply-chain risks, and other exploitable codebase issues while preserving install, build, test, run, and deployment behavior.",
+  "repositoryName": "patcher-skill",
+  "topics": [
+    "ai-skill",
+    "developer-tools",
+    "security",
+    "vulnerability-management",
+    "cve",
+    "docker",
+    "dependencies",
+    "frontend",
+    "supply-chain"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

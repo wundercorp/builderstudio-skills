@@ -1,0 +1,17 @@
+{
+  "skillId": "coherence",
+  "displayName": "Coherence",
+  "description": "Prompt, skill, and technology-direction reconciliation guidance for turning mismatched requirements, overlapping skills, contradictory instructions, and implementation anti-patterns into a coherent strategy that works well together.",
+  "repositoryName": "coherence-skill",
+  "topics": [
+    "ai-skill",
+    "prompt-engineering",
+    "software-architecture",
+    "technical-strategy",
+    "anti-patterns",
+    "documentation",
+    "change-management"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "linguist",
+  "displayName": "Linguist",
+  "description": "Internationalization implementation guidance for auto-configuring multilingual sites with locale routing, translation keys, fallback languages, formatting, SEO hreflang metadata, extraction checks, and localization documentation.",
+  "repositoryName": "linguist-skill",
+  "topics": [
+    "ai-skill",
+    "i18n",
+    "localization",
+    "multilingual",
+    "frontend",
+    "seo",
+    "accessibility"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

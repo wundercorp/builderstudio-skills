@@ -1,0 +1,17 @@
+{
+  "skillId": "themable",
+  "displayName": "Themable",
+  "description": "Website theme palette guidance for adding switchable theme families, semantic token utilities, accessible palette pickers, persisted preferences, CSS variable generation, and anti-pattern prevention across frontend codebases.",
+  "repositoryName": "themable-skill",
+  "topics": [
+    "ai-skill",
+    "themes",
+    "design-system",
+    "palettes",
+    "frontend",
+    "css",
+    "accessibility"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

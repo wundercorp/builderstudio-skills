@@ -1,0 +1,17 @@
+{
+  "skillId": "archivist",
+  "displayName": "Archivist",
+  "description": "Repository history and change-maintenance guidance for keeping changelogs, change records, release notes, ADRs, migration notes, API notes, deployment notes, and GitHub review templates up to date whenever codebases change.",
+  "repositoryName": "archivist-skill",
+  "topics": [
+    "ai-skill",
+    "changelog",
+    "release-notes",
+    "adr",
+    "github",
+    "documentation",
+    "change-management"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

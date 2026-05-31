@@ -1,0 +1,15 @@
+{
+  "skillId": "cloud-deployment-shipyou",
+  "displayName": "Cloud Deployment for ShipYou",
+  "description": "Deployment-readiness guidance for containerizing apps, producing Docker-friendly source bundles, adding health checks, and preparing projects for ShipYou handoff.",
+  "repositoryName": "cloud-deployment-shipyou-skill",
+  "topics": [
+    "ai-skill",
+    "docker",
+    "deployment",
+    "containerization",
+    "shipyou"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}
