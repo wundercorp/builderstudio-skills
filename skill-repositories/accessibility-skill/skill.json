@@ -1,0 +1,19 @@
+{
+  "skillId": "accessibility",
+  "displayName": "Accessibility",
+  "description": "Inclusive UI accessibility guidance for semantic HTML, ARIA, keyboard navigation, focus management, screen-reader behavior, accessible forms, reduced motion, landmarks, live regions, and assistive-technology-friendly components across frontend apps.",
+  "repositoryName": "accessibility-skill",
+  "topics": [
+    "ai-skill",
+    "accessibility",
+    "a11y",
+    "aria",
+    "keyboard-navigation",
+    "frontend",
+    "semantic-html",
+    "assistive-technology",
+    "forms"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

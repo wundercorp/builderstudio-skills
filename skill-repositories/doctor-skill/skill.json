@@ -1,0 +1,18 @@
+{
+  "skillId": "doctor",
+  "displayName": "Doctor",
+  "description": "Runtime dependency doctor and generated-app auto-healing guidance for unresolved imports, missing packages, stale installs, package.json drift, lockfile drift, Vite import-analysis errors, module-not-found failures, and dev-server preview failures.",
+  "repositoryName": "doctor-skill",
+  "topics": [
+    "ai-skill",
+    "developer-tools",
+    "debugging",
+    "runtime",
+    "dependencies",
+    "vite",
+    "frontend",
+    "auto-healing"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

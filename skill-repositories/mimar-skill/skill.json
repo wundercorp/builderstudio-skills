@@ -1,0 +1,18 @@
+{
+  "skillId": "mimar",
+  "displayName": "Mimar",
+  "description": "Architecture documentation generation guidance and tooling for automatically creating and maintaining ARCHITECTURE.md files with Markdown-friendly diagrams, directory maps, run flows, dependency maps, feature boundaries, implementation notes, and codebase design explanations.",
+  "repositoryName": "mimar-skill",
+  "topics": [
+    "ai-skill",
+    "developer-tools",
+    "architecture",
+    "documentation",
+    "markdown",
+    "diagrams",
+    "codebase-analysis",
+    "handoff"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

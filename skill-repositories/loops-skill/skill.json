@@ -1,0 +1,18 @@
+{
+  "skillId": "loops",
+  "displayName": "Loops",
+  "description": "Bounded agent loop guidance for BuilderStudio, helping Aurelius orchestrate Hermes worker lanes through review, revise, verify, repair, evidence, approval, and stop-condition cycles inside the agentic IDE.",
+  "repositoryName": "loops-skill",
+  "topics": [
+    "ai-skill",
+    "builderstudio",
+    "agentic-ide",
+    "agent-workflows",
+    "loop-agents",
+    "multi-agent",
+    "developer-tools",
+    "automation"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

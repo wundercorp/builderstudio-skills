@@ -1,0 +1,17 @@
+{
+  "skillId": "gradient-mesh",
+  "displayName": "Gradient Mesh",
+  "description": "Gradient mesh website design guidance for generating tasteful mesh backgrounds, CSS/SVG/canvas assets, animation-safe visual systems, accessibility overlays, performance budgets, and optional MeshGradientPy-inspired Python mesh workflows.",
+  "repositoryName": "gradient-mesh-skill",
+  "topics": [
+    "ai-skill",
+    "gradient-mesh",
+    "web-design",
+    "frontend",
+    "css",
+    "svg",
+    "visual-design"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

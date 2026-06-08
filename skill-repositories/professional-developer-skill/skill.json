@@ -1,0 +1,15 @@
+{
+  "skillId": "professional-developer",
+  "displayName": "Professional Developer",
+  "description": "Production-grade development guidance for clean structure, formatting, design patterns, testing, maintainability, and professional code review behavior.",
+  "repositoryName": "professional-developer-skill",
+  "topics": [
+    "ai-skill",
+    "developer-tools",
+    "code-quality",
+    "software-architecture",
+    "refactoring"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

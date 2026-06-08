@@ -1,0 +1,18 @@
+{
+  "skillId": "wiring",
+  "displayName": "Wiring",
+  "description": "Application wiring sanity-check and repair guidance for making sure run commands, entry points, imports, CSS and asset references, dependencies, routes, environment variables, build configuration, monorepo links, Docker files, and deployment paths are correctly connected so apps can run and ship.",
+  "repositoryName": "wiring-skill",
+  "topics": [
+    "ai-skill",
+    "developer-tools",
+    "app-wiring",
+    "debugging",
+    "frontend",
+    "backend",
+    "build-tools",
+    "deployment"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}

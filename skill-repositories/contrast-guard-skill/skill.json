@@ -1,0 +1,18 @@
+{
+  "skillId": "contrast-guard",
+  "displayName": "Contrast Guard",
+  "description": "UI legibility and contrast-safety guidance for preventing unreadable foreground/background pairings, theme-toggle contrast regressions, risky overlays, accidental palette leakage, and low-contrast interactive states across generated frontend apps.",
+  "repositoryName": "contrast-guard-skill",
+  "topics": [
+    "ai-skill",
+    "accessibility",
+    "contrast",
+    "visual-design",
+    "frontend",
+    "css",
+    "themes",
+    "design-system"
+  ],
+  "builderStudioUrl": "https://builderstudio.dev",
+  "generatedBy": "builderstudio-skill-repository-creator"
+}
